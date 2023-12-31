@@ -10,12 +10,15 @@ No contexto deste desafio, abordamos a implementação e testes de tarefas deter
 - Ruby version : 3.0.2 
 - Rails version: 7.1.2
 - System Linux:  Linux Mint 21.2
+- DataBase : Postgres
 
 
 #### Funcionalidades!
- <a href="">
-    <img src="https://img.shields.io/badge/VIDEO%20DEMONSTRAÇÃO  -darkgreen" alt="Site">
- </a>
+<a href="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/a1f5c237-479b-45ee-93ce-825ca0123d3e.gif?ClientID=vimeo-core-prod&Date=1704051779&Signature=01f13c30a71f452248a781454fcfb48843b097b4">
+  <img src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/a1f5c237-479b-45ee-93ce-825ca0123d3e.gif?ClientID=vimeo-core-prod&Date=1704051779&Signature=01f13c30a71f452248a781454fcfb48843b097b4" width="300">
+</a>
+
+
 
 ### *Questão 1*
  <p align="left"> 
