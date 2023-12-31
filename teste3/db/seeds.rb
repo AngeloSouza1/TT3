@@ -7,3 +7,11 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+100.times do
+    Person.create(
+      name: Faker::Name.name,
+      cpf: Faker::Number.number(digits: 11),
+      state: Faker::Address.state,
+      value: Faker::Number.number(digits: 3)
+    )
+  end
