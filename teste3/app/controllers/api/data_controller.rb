@@ -1,4 +1,3 @@
-# app/controllers/api/data_controller.rb
 class Api::DataController < ApplicationController
     def index
       people = Person.all
