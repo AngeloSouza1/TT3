@@ -41,7 +41,14 @@ No contexto deste desafio, abordamos a implementação e testes de tarefas deter
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
     </a>
 
-
+### *Questão 3*
+ <p align="left"> 
+ - Desenvolvimento 'Def solucao_inversa'
+</p>
+<p> 
+   <a href="https://github.com/AngeloSouza1/TT3/issues/">
+       <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
+    </a>
      
 
      
