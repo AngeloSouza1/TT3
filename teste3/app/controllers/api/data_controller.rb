@@ -1,5 +1,6 @@
 class Api::DataController < ApplicationController
-    def index
+  skip_before_action :verify_authenticity_token
+  def index
       people = Person.all
       render json: { result: solucao(people) }
     end

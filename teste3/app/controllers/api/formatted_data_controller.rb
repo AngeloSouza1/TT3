@@ -1,8 +1,7 @@
-
 class Api::FormattedDataController < ApplicationController
-    require 'yaml'
-  
-    def index
+  skip_before_action :verify_authenticity_token
+  require 'yaml'
+  def index
       input_data = [
             { name: 'Maria Neusa de Aparecida',  cpf: '97905796671',  state: 'Sao Paulo',  value: '1234' },
             { name: 'Ricardo Fontes',cpf: '44010762900', state: 'Rio Grande do Sul', value: '567' }
