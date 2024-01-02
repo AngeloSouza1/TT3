@@ -22,6 +22,14 @@ No contexto deste desafio, abordamos a implementação e testes de tarefas deter
   <img src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/29fc1dce-3193-41df-948a-ede5708b029e.gif?ClientID=vimeo-core-prod&Date=1704147809&Signature=baac052eddfee597b0f5d22fc09eb191eb3a153d" width="300">
 </a>
 
+<a href="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/63c87419-599b-4a36-b330-633a021f0950.gif?ClientID=vimeo-core-prod&Date=1704193260&Signature=ab3a0d72b4381d9930b8742c084e94f8de9df0a2">
+  <img src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/63c87419-599b-4a36-b330-633a021f0950.gif?ClientID=vimeo-core-prod&Date=1704193260&Signature=ab3a0d72b4381d9930b8742c084e94f8de9df0a2" width="300">
+</a>
+
+
+
+
+
 
 ### *Questão 1*
  <p align="left"> 
@@ -46,7 +54,7 @@ No contexto deste desafio, abordamos a implementação e testes de tarefas deter
  - Desenvolvimento 'Def solucao_inversa'
 </p>
 <p> 
-   <a href="https://github.com/AngeloSouza1/TT3/issues/">
+   <a href="https://github.com/AngeloSouza1/TT3/issues/8">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
     </a>
      
